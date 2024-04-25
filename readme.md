@@ -884,7 +884,7 @@
 - User-Defined and Menu Driven
     - Create User-defined modules/packages and import them in a program
         
-        math.py
+        math_operations.py
         
         ```python
         # math_operations.py
